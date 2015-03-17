@@ -1,3 +1,3 @@
 # Project Euler Solutions
 
-Solutions to problems from [Project Euler|https://projecteuler.net] in different programming languages
+Solutions to problems from [https://projecteuler.net|Project Euler] in different programming languages
