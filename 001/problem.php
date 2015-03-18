@@ -11,5 +11,5 @@ function solve_problem() {
         }
     }
 
-    return $sum;    
+    return $sum;
 }
